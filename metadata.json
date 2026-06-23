@@ -1,0 +1,8 @@
+{
+  "name": "Atya Marketing Suite",
+  "description": "Design system and proactive customer engagement platform for Atya Marketing Suite (CDP, Digital Twin, Agentic AI, Journey Builder, and Wizbot).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
